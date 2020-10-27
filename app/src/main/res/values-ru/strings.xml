@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="city">Москва</string>
+    <string name="app_name">Погода</string>
+
+
+
 
 </resources>
