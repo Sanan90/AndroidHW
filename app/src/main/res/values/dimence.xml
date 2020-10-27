@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="pictureWidth">330dp</dimen>
+    <dimen name="pictureHeight">250dp</dimen>
+    <dimen name="layout_editor_absoluteX">25dp</dimen>
+    <dimen name="layout_editor_absoluteY">400dp</dimen>
+
 
 </resources>
